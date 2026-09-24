@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am a Backend Developer specializing in Python, F
 * Developed a crowdfunding web platform for student events in a team environment.
 * Followed industry-like Agile/Scrum development processes.
 * Handled requirements analysis, role-based access logic, and fundraising workflows.
-* **Tech Stack:** C#, ASP.NET Core, REST API, Entity Framework.
+* **Tech Stack:** Python, FastAPI, AsyncIO, Redis, PostgreSQL, Docker, Git , Agile/Scrum.
 
 ### ⚖️ ["Саме той Адвокат" - Legal Consultancy Telegram Bot](https://github.com/RomasYurii)
 A fully automated bot for legal services (Freelance project).
